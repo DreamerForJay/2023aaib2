@@ -1,3 +1,5 @@
+#week15-5.py
+#LeetCode 1208. Get Equal Substrings Within Budget寫到一半
 class Solution:
     def equalSubstring(self, s: str, t: str, maxCost: int) -> int:
         ans=0
